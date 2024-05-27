@@ -1,2 +1,2 @@
 ## Мой бэкенд
-https://backend.nomoredomainswork.ru/
+https://pin-backend.nomoredomainswork.ru/
